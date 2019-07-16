@@ -14,4 +14,4 @@ Project is divide to three directory:
 3. ANDROID APP
 - Contain a project in Android Studio with Android Application to read a SmartFlowerPot Beacons.
 
-![Optional Text](/Other/img/3.PNG)
+![2in1](https://user-images.githubusercontent.com/31981020/61332284-2edc7680-a824-11e9-9584-0bf20a827cce.png)
